@@ -1,6 +1,6 @@
 # DataStructure-linkQueue
 A example of link queue
-<code>
+<pre><code>
 struct QNode{
     QNode *next;
     int data;
@@ -79,4 +79,4 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 
-</code>
+</code><pre>
